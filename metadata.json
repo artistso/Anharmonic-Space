@@ -1,0 +1,6 @@
+{
+  "name": "Anharmonic Space: Topological Matrix Core",
+  "description": "3D Spatial Field Engine, Monte Carlo Topological Latent Tokenizer, Fourier-Mapped Neural Predictor, and Binary Stream Packer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
